@@ -18,6 +18,5 @@ BWString::string s1("This is a string");
 
 int main( int argc, char ** argv ) {
 	std::string s = s1;
-	std::cout << s << std::endl;
 	return 0;
 }
